@@ -15,3 +15,11 @@ This section details my completion of the "How to Boost Your Productivity with A
 * **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/8cbc6f6b18296815fccaccfa11aaf803ae296e95dd145472ea9a738a0c5678f0?trk=share_certificate)
 
 ---
+## 3. Prompt Engineering: How to Talk to the AIs
+
+This section details my completion of the "Prompt Engineering: How to Talk to the AIs" course.
+
+* **Course Link:** [How to Boost Your Productivity with AI Tools](https://www.linkedin.com/learning/prompt-engineering-how-to-talk-to-the-ais/talking-to-the-ais?resume=false)
+* **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/75c0fffa8f78aac6029824dd83ac8df1a06d284698b022da7e375e9f3ee3ea59?trk=share_certificate)
+
+---
