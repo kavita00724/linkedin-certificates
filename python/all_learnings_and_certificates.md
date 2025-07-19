@@ -8,10 +8,6 @@ This section details my completion of the "Python Essential Training" course.
 
 ---
 ## 2. Foundations of Algorithmic Thinking with Python
-
-This section details my completion of the "Foundations of Algorithmic Thinking with Python" course.
-
 * **Course Link:** [Foundations of Algorithmic Thinking with Python](https://www.linkedin.com/learning/foundations-of-algorithmic-thinking-with-python/importance-of-algorithmic-thinking?resume=false)
 * **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/55c9572e2f47d1fccb0cef6b799b3f622668efc8a89343705f3cb9f584967263?trk=share_certificate)
-
 ---
