@@ -11,3 +11,9 @@ This section details my completion of the "Getting Started with Power BI" course
 
 * **Course Link:** [Learning Power BI Desktop](https://www.linkedin.com/learning/learning-power-bi-desktop-update/model-and-visualize-your-data-with-power-bi-desktop?resume=false)
 * **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/d20a9b6c57ebaf5bda77f42b3ff9fdb4950d229ef6592429877ae3090c0bfe6b?trk=share_certificate)
+
+---
+## 3. Power BI: Dashboards for Beginners
+
+* **Course Link:** [Power BI: Dashboards for Beginners](https://www.linkedin.com/learning/power-bi-dashboards-for-beginners-24050067/navigate-the-power-bi-desktop-interface?resume=false)
+* **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/be0c9ce218a16b820310dbd3633b0df11332186c9c8c037467eab9e774a4c887?trk=share_certificate)
