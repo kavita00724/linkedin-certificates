@@ -16,3 +16,8 @@ This section details my completion of the "Python Essential Training" course.
 * **Course Link:** [Learning Python](https://www.linkedin.com/learning/learning-python-25309312/learning-python?resume=false)
 * **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/6eb45fbc6f7eae177e862df597fbc67e3234018eec00e1c4dc778a9eb15d2c0c?trk=share_certificate)
 ---
+
+## 4. Using Python for Automation
+* **Course Link:** [Using Python for Automation](https://www.linkedin.com/learning/using-python-for-automation-2023/automate-everything-with-python)
+* **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/c33ec439f3b2028f7378b79ae12e6b00473e44395e2aab25e4a2c6891bb4d00c?trk=share_certificate)
+---
