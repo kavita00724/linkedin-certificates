@@ -21,3 +21,8 @@ This section details my completion of the "Python Essential Training" course.
 * **Course Link:** [Using Python for Automation](https://www.linkedin.com/learning/using-python-for-automation-2023/automate-everything-with-python)
 * **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/c33ec439f3b2028f7378b79ae12e6b00473e44395e2aab25e4a2c6891bb4d00c?trk=share_certificate)
 ---
+
+## 5. Python Data Analysis
+* **Course Link:** [Python Data Analysis](https://www.linkedin.com/learning/python-data-analysis-24296803/from-data-to-insight-with-python?resume=false)
+* **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/ce3c9ddb009a7267f7c4c7ffce63a40ea45f2fec449eda7ce6c8b182fcfb71ce?trk=share_certificate)
+---
