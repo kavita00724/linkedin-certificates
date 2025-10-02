@@ -15,3 +15,10 @@ This section details my completion of the "Learning Data Analytics Part 2: Exten
 * **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/435f85a86518a9604a39119370359b007887e6fd5414f0e2b7ee5542ec2baa55?trk=share_certificate)
 
 ---
+## 3. Data-Driven Product Management
+
+This section details my completion of the "Data-Driven Product Management" course.
+
+* **Course Link:** [Data-Driven Product Management](https://www.linkedin.com/learning/data-driven-product-management/data-driven-decisions-for-product-success)
+* **Certificate Link:** [Certificate of Completion](https://www.linkedin.com/learning/certificates/1e4e8d3a4b51045afec8e1c423c152b708a7240a249bb0c3f0737277e9b9052f?trk=share_certificate)
+---  
